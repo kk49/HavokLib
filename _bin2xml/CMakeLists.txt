@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.3)
 
 set(UNICODE TRUE)
-set(RELEASEVER FALSE)
+set(RELEASEVER TRUE)
 
 add_subdirectory(../ HavokLib/)
 
